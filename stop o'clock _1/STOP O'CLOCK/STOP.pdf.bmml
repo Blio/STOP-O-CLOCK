@@ -1,0 +1,77 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1167" measuredH="501" mockupW="1043" mockupH="487">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="124" y="14" w="1043" h="487" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="1013" y="311" w="-1" h="-1" measuredW="150" measuredH="186" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Top%20Scorer%0ASecond%20in%20Line%0A-%20Sub-Item%202.1%0A-%20Sub-Item%202.2%0AThird%20in%20Line%0AFourth%20in%20line</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="996" y="17" w="-1" h="-1" measuredW="163" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Log%20in%20to%20settle%20Scores</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="420" y="65" w="455" h="250" measuredW="1650" measuredH="1275" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Stop.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="1021" y="342" w="-1" h="-1" measuredW="48" measuredH="69" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="1111" y="350" w="55" h="37" measuredW="59" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>50%20points</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="1127" y="418" w="27" h="22" measuredW="22" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>40</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="1127" y="443" w="28" h="20" measuredW="22" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>30</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="1130" y="470" w="23" h="28" measuredW="22" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>20</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="126" y="17" w="-1" h="-1" measuredW="281" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CHOOSE%20WORDS%20FROM%20THIS%20CATEGORY</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="555" y="332" w="158" h="-1" measuredW="138" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>_%20_%20_%20_%20_%20_%20_%20_%20_%20_</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="576" y="430" w="118" h="48" measuredW="103" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit%20Letter</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="593" y="379" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="1085" y="75" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HelpIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="1043" y="108" w="-1" h="-1" measuredW="110" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20the%20Game</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
